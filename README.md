@@ -1,13 +1,13 @@
 # Kumpulan Lomba Data Mining
 
 ## 1. Kaggle
-![Kaggle](https://kaggle2.blob.core.windows.net/competitions/kaggle/3136/media/kaggle-transparent.svg)<br/><br/>
+![Kaggle](https://kaggle2.blob.core.windows.net/competitions/kaggle/3136/media/kaggle-transparent.svg)<br/>
 Kaggle is a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
 
 Competitions:
 #### a. [Passenger Screening Algorithm Challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge#timeline)
-**Desctiption:**
-In this competition, TSA is stepping outside their established procurement process and is challenging the broader data science community to help improve the accuracy of their threat prediction algorithms. Using a dataset of images collected on the latest generation of scanners, participants are challenged to identify the presence of simulated threats under a variety of object types, clothing types, and body types.
+**Desctiption:** <br/>
+In this competition, TSA is stepping outside their established procurement process and is challenging the broader data science community to help improve the accuracy of their threat prediction algorithms. Using a dataset of images collected on the latest generation of scanners, participants are challenged to identify the presence of simulated threats under a variety of object types, clothing types, and body types.<br/>
 **Prize:**
 - First Place: $500,000
 - Second Place: $300,000
@@ -16,13 +16,13 @@ In this competition, TSA is stepping outside their established procurement proce
 - Fifth Place: $100,000
 - Sixth Place: $100,000
 - Seventh Place: $100,000
-- Eighth Place: $100,000
+- Eighth Place: $100,000 <br/>
 **Submission Deadline:** December 4th, 2017
 
 #### b. [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
 **Description:** <br/>
 Zestimates are estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on each property. And, by continually improving the median margin of error (from 14% at the onset to 5% today)<br/>
-**Prize:**<br/>
+**Prize:**
 - First Round Prizes: $50,000 U.S. Dollars
 - First Place Prize - $25,000 USD
 - Second Place Prize - $15,000 USD
