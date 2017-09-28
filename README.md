@@ -40,7 +40,7 @@ Zestimates are estimated home values based on 7.5 million statistical and machin
 ## 2. 8th International Cybersecurity Data Mining Competition (CDMC 2017)
 ![International Cybersecurity Data Mining Competition](http://www.austral.edu.ar/wp-content/uploads/2016/10/ingenieria-data-mining-300x192.jpg) <br />
 **Description:**<br/>
-The CDMC 2017 at ICONP is a challenging, multi-month research and practice competition, focusing on application of knowledge discovery techniques to solve advanced, real-world problems. The competition is open to multi-person teams worldwide. Contestants are invited to participate in solving a set of problems in fields of cybersecurity, text mining, image processing, etc.<br/>
+The CDMC 2017 at ICONP is a challenging, multi-month research and practice competition, focusing on application of knowledge discovery techniques to solve advanced, real-world problems. The competition is open to multi-person teams worldwide. Contestants are invited to participate in solving a set of problems in fields of cybersecurity, text mining, image processing, etc.<br/><br />
 **Prize:**<br/>
 We have set cash prizes for the competition. The top ranking teams of all data mining tasks will be eligible to win a cash prize of NZ $3000. Additional prizes may be available as travel grants for deserving participants to help them attend the ICONIP 2017 conference and the DMC 2017 workshop. The award ceremony of the competition will be held at the grand banquet of ICONIP, where the winner of the CDMC will be awarded in front of all the audience and honorable guests of the conference.<br/>
 Deadline: October 15th, 2017
